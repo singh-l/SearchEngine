@@ -1,8 +1,8 @@
 # SearchEngine
 Text Search Engine that works on entire Wikipedia corpus in XML format, ranks the pages appropriately.
 </br>
-Complete Report for the project can be found 🥅 here -> (https://github.com/singh-l/SearchEngine/blob/master/Search_Engine%20(1).pdf)
-<img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="48">
+Complete Report for the project can be found 🥅 here -> 
+<a href = "https://github.com/singh-l/SearchEngine/blob/master/Search_Engine%20(1).pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="48"></a>
 </br>
 Below are some 'Software Engineering' and 'System Design' related diagrams:
 </br>
