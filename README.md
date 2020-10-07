@@ -8,28 +8,28 @@ Below are some 'Software Engineering' and 'System Design' related diagrams:
 
 
 
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s1.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s1.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s2.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s2.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s3.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s3.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s4.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s4.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s5.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s5.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s6.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s6.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s7.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s7.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s8.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s8.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s9.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s9.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s10.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s10.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s11.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s11.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s12.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s12.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEnginer/blob/master/images/s13.png?raw=true)
+![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s13.png?raw=true)
