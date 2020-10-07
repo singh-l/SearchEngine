@@ -18,6 +18,8 @@ Below are some 'Software Engineering' and 'System Design' related diagrams:
 </br>
 ![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s5.png?raw=true)
 </br>
+Below are some code implementation screenshots
+</br>
 ![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s6.png?raw=true)
 </br>
 ![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s7.png?raw=true)
@@ -30,6 +32,3 @@ Below are some 'Software Engineering' and 'System Design' related diagrams:
 </br>
 ![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s11.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s12.png?raw=true)
-</br>
-![alt text](https://github.com/singh-l/SearchEngine/blob/master/images/s13.png?raw=true)
